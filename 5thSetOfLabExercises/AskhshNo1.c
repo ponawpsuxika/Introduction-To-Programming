@@ -1,4 +1,3 @@
-//Tsala Zafeiria // 1084963 // Lab 1// A13 //
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
