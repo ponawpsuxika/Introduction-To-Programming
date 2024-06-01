@@ -1,3 +1,4 @@
-These are some lab exercises i did for the Introduction To Programming course (1st Semester-Winter) 
-Computer Engineering & Informatics Dept. , University Of Patras 
-2022-2023
+Lab exercises for the "Introduction To Programming" course (CEID_22Υ103)
+1st Semester, Winter 2022-2023 
+Computer Engineering & Informatics Department, University Of Patras 
+
